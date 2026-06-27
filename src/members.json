@@ -3,5 +3,6 @@
 	"members": [
     { "url": "https://madcampos.dev/", "title": "Marco Campos", "github": "madcampos" },
     { "url": "https://kieran.ca/", "title": "Kieran Huggins", "github": "kieran" }
+	{ "url": "https://jenchan.biz/", "title": "Jen Chan", github: "usrrname"}
 	]
 }
